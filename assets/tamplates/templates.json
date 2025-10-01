@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Professional CV",
+    "file": "assets/tamplates/template1.pdf",
+    "subtitle": "Formal layout for corporate jobs"
+  },
+  {
+    "name": "Creative CV",
+    "file": "assets/tamplates/template2.pdf",
+    "subtitle": "Stylish design for creative roles"
+  },
+  {
+    "name": "Modern CV",
+    "file": "assets/tamplates/template3.pdf",
+    "subtitle": "Clean design for tech positions"
+  },
+  {
+    "name": "Simple CV",
+    "file": "assets/tamplates/template4.pdf",
+    "subtitle": "Minimalist format for internships"
+  }
+]

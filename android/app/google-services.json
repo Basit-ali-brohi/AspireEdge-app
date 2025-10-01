@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "509505118688",
+    "project_id": "career-d3ecc",
+    "storage_bucket": "career-d3ecc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509505118688:android:1b3962a1f2ae0bfe450b85",
+        "android_client_info": {
+          "package_name": "com.example.aspire_edge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBSM7PuxpzqDQwZ9QXnPqQUz81OBXNWLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509505118688:android:b55cb52fe2563df6450b85",
+        "android_client_info": {
+          "package_name": "com.example.aspireedge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBSM7PuxpzqDQwZ9QXnPqQUz81OBXNWLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509505118688:android:498828b383757166450b85",
+        "android_client_info": {
+          "package_name": "com.example.online_cource_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBSM7PuxpzqDQwZ9QXnPqQUz81OBXNWLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
